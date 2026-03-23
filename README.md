@@ -56,6 +56,7 @@ Of course, the files are completely open and free to use outside of Obsidian or 
 
 ## Usage
 
-1. Simply download the `.md` files from the `Markdown Files` folder and place them into your Obsidian Vault
-2. Open Obsidian and study!
-3. Remember to always double check scripts and translations
+1. Simply download the `.zip` file from the [Releases](https://github.com/TariqMK/Obsidian-Quran-Journal/releases) section
+2. Extract the files and place them into your Obsidian Vault
+3. Open Obsidian and study!
+4. Remember to always double check scripts and translations
