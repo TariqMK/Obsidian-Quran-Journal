@@ -2,7 +2,7 @@
 
 I wanted a way to take notes on the Qur'aan while having each Ayah individually listed in both Arabic and English.
 
-For my notes and studies in general, I use Obsidian, which is a great, free tool to take your own notes and store them as you wish. It utilises the markdown (`.md`) format to ensure that your notes stay simple, useful and preservable over the long term. Markdown is similar to the standard Text (`.txt`) files we are used to, but provides extra features for formatting. Both file types are openable on any devices that exists.
+For my notes and studies in general, I use [Obsidian](https://obsidian.md/), which is a great, free tool to take your own notes and store them as you wish. It utilises the markdown (`.md`) format to ensure that your notes stay simple, useful and preservable over the long term. Markdown is similar to the standard Text (`.txt`) files we are used to, but provides extra features for formatting. Both file types are openable on any devices that exists.
 
 This repository contains full Markdown files for each Surah, with each Ayah having both the original Arabic and subsequent English translations. Simply import into your Obsidian Vault and start your studying.
 
