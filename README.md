@@ -1,4 +1,4 @@
-# Obsidian-Quran-Journal
+# Obsidian Quran Journal
 
 I wanted a way to take notes on the Qur'aan while having each Ayah individually listed in both Arabic and English.
 
